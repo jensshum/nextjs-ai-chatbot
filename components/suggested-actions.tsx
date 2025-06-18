@@ -19,24 +19,24 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: 'What deductions am I missing',
+      label: 'that could lower my tax bill?',
+      action: 'What deductions am I missing that could lower my tax bill?',
     },
     {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
+      title: 'Should I itemize deductions',
+      label: `or take the standard deduction this year?`,
+      action: `Should I itemize deductions or take the standard deduction this year?`,
     },
     {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
+      title: 'How can I minimize',
+      label: `taxes on my investment gains?`,
+      action: `How can I minimize taxes on my investment gains?`,
     },
     {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
+      title: 'What\'s the best timing',
+      label: 'for major financial decisions to optimize taxes?',
+      action: 'What\'s the best timing for major financial decisions to optimize taxes?',
     },
   ];
 
